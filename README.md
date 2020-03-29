@@ -5,7 +5,7 @@ Simple & Beautiful App UI Using Flutter Framework.
 Ice Cream Parlour App UI is a design implementaion of [Ice Cream](https://dribbble.com/shots/6740286-Ice-Cream) designed by [Anastasia Marinicheva](https://dribbble.com/anmarinicheva)
 
 ## Download App 
-<a href="https://github.com/developerRsam/Ice-cream-parlour-app-UI/blob/master/Screenshots/app-x86_64-release.apk?raw=true"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+<a href="https://github.com/developerRsam/Ice-cream-parlour-app-UI/blob/master/Screenshots/app-armeabi-v7a-release.apk?raw=true"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
 
 ![alt text](https://github.com/developerRsam/Ice-cream-parlour-app-UI/blob/master/Screenshots/ICShop_uidesign_git.png)
