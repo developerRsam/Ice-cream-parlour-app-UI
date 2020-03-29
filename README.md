@@ -15,6 +15,9 @@ Ice Cream Parlour App UI is a design implementaion of [Ice Cream](https://dribbb
 ### Android Screenshots
 
 ![alt text](https://github.com/developerRsam/Ice-cream-parlour-app-UI/blob/master/Screenshots/Screenshot_1584542407.png)
+
+-----------------------------------
+
 ![alt text](https://github.com/developerRsam/Ice-cream-parlour-app-UI/blob/master/Screenshots/Screenshot_1584542403.png)
 
 ## Pull Requests
